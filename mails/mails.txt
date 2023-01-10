@@ -1,0 +1,49 @@
+
+e ma il@example.com     
+firstname. lastname@example.com
+ema il@subdomain.example.com
+firstname+lastname@example.com
+email@123.123.123.123
+email@[123.123.123.123]
+"email"@example.com
+12345 67890@example.com
+email@exam ple-one. com
+___ ____@example . com
+
+
+email@example. name
+
+
+email@example.museum
+
+
+email@example.co.jp
+
+
+firstname-lastname@example.com
+
+
+
+plainaddress
+#@%^%#$@#$@#.com
+@example.com
+Joe Smith <email@example.com>
+email.example.com
+email@example@example.com
+
+.email@example.com
+
+email.@example.com
+
+email..email@example.com
+
+あいうえお@example.com
+
+email@example.com (Joe Smith)
+
+email@example
+email@-example.com
+email@example.web
+email@111.222.333.44444
+email@example..com
+Abc..123@example.com
