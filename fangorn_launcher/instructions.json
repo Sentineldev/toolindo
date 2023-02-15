@@ -1,0 +1,4 @@
+{
+    "command" : "cd C:\\Users\\jfiguera\\Documents\\WorkSpace\\PHP\\fangorn-wc & php artisan schedule:work",
+    "app_directory" : "C:\\wamp\\wampmanager.exe"
+}
